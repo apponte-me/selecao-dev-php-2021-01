@@ -1,31 +1,25 @@
-### Tests LL
+# Challenge - Backend Developer
 
-Is test for company software.
+Using SOLID principles, write a program that prints all the numbers from 1 to 100. However, for multiples of 3, instead of the number, print “Match”. For multiples of 5 print "IT". For numbers which are multiples of both 3 and 5, print “MatchedBaby”.
 
-I assume some a lot of details is not explained, solid is a long principle and
-he have continuous problem with KISS, but, maybe this solutions is ok.
 
-#### Requirements
-    composer
-    php > 7.3
 
-#### Install
-````bash
-composer install
-````
+But here's the catch: you can use only one if. No multiple branches, ternary operators or else.
 
-#### Execute
-````bash
-composer app
-// or php index.php
-````
 
-#### Development
-````bash
-composer install --dev
-````
 
-#### Tests
-````bash
-composer tests
-````
+# Requirements
+
+* 1 if
+
+* You can't use else, else if or ternary
+
+* Unit tests
+
+* You can write the challenge in any language you want. Here at StarCorp we are big fans of PHP, Kotlin, .Net C# and TypeScript
+
+
+
+# Submission
+
+You can create a public repository on your GitHub account and send the link to us, or just send us a zip file.
